@@ -8,7 +8,7 @@ public class A1Novice {
 		
 		Scanner scan = new Scanner(System.in);
 
-		// Your code follows here.
+		
 		int totalcustomers = scan.nextInt();
 		
 		String[] names = new String[totalcustomers];
